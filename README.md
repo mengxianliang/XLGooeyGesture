@@ -9,4 +9,4 @@ XLGooeyGesture继承于UIGestureRecognizer，使用时只需要将手势添加�
     [view addGestureRecognizer:gesture];
 ```
 
-![image](https://github.com/mengxianliang/XLPageViewController/blob/master/Images/Gif/1-1.gif)
+![image](https://github.com/mengxianliang/XLGooeyGesture/blob/master/Images/1.gif)
