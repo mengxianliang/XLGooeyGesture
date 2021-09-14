@@ -14,3 +14,7 @@ XLGooeyGesture继承于UIGestureRecognizer，使用时只需要将手势添加�
     XLGooeyGesture *gesture = [[XLGooeyGesture alloc] init];
     [view addGestureRecognizer:gesture];
 ```
+
+## 原理
+
+参考[我的文章](https://www.yuque.com/mengxianliang/pepzz3/lgmgou#j0SS8)
